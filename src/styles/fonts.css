@@ -1,0 +1,6 @@
+/* OpenSans */
+@font-face {
+    font-family: 'OpenSans';
+    src: local('OpenSans'),
+    url('/fonts/OpenSans-SemiBold.ttf') format('truetype');
+  }
