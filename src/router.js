@@ -15,12 +15,58 @@ const routes =
     component: () =>
     import('./views/Portfolio.vue')
   },
-//   {
-//     path: '/pricing',
-//     name: 'Pricing',
-//     component: () =>
-//     import('../views/Pricing.vue')
-//   },
+  // Portfolio
+  {
+    path: '/portfolio/ChrisAndMelissa',
+    name: 'Chris and Melissa',
+    component: () =>
+    import('./views/portfolio/ChrisAndMelissa.vue')
+  },
+  {
+    path: '/portfolio/PeterAndSandy',
+    name: 'Peter and Sandy',
+    component: () =>
+    import('./views/portfolio/PeterAndSandy.vue')
+  },
+  {
+    path: '/portfolio/NeeshaAndNitin',
+    name: 'Neesha and Nitin',
+    component: () =>
+    import('./views/portfolio/NeeshaAndNitin.vue')
+  },
+  {
+    path: '/portfolio/CrystalAndLewis',
+    name: 'Crystal and Lewis',
+    component: () =>
+    import('./views/portfolio/CrystalAndLewis.vue')
+  },
+  {
+    path: '/portfolio/SamanthaAndJaideep',
+    name: 'Samantha and Jaideep',
+    component: () =>
+    import('./views/portfolio/SamanthaAndJaideep.vue')
+  },
+  {
+    path: '/portfolio/LaurenAndBen',
+    name: 'Lauren and Ben',
+    component: () =>
+    import('./views/portfolio/LaurenAndBen.vue')
+  },
+  {
+    path: '/portfolio/SarahAndJames',
+    name: 'Sarah and James',
+    component: () =>
+    import('./views/portfolio/SarahAndJames.vue')
+  },
+  {
+    path: '/portfolio/RoshnaAndAlistair',
+    name: 'Roshna and Alistair',
+    component: () =>
+    import('./views/portfolio/RoshnaAndAlistair.vue')
+  },
+ 
+  
+
 
 ]
 

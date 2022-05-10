@@ -12,7 +12,7 @@
     <Logo class="" />
   </router-link>
   
-  <img src="/img/homepage/42l.jpg" class="object-cover h-screen w-screen">
+  <img src="/img/portfolio/cake.jpg" class="object-cover h-screen w-screen">
 </div>
 
 </template>

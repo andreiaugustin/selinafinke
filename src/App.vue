@@ -1,6 +1,6 @@
 
 <template>
-  <div class="flex flex-col h-screen">
+  <div class="flex flex-col h-screen bg-white dark:bg-zinc-900">
     <router-view />
   </div>
 </template>
