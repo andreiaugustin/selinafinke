@@ -1,7 +1,7 @@
 
 <script setup>
-  import Logo from "../components/Logo.vue";
-  import ThinNavigationBar from "../components/ThinNavigationBar.vue";
+  import Logo from "../components/LogoWhite.vue";
+  import NavBar from "../components/ThinNavigationBarWhite.vue";
 </script>
 
 <template>
@@ -10,8 +10,8 @@
 
   <div class="absolute flex flex-col w-screen flex min-h-screen justify-center items-center">
 
-    <Logo class="" />
-    <ThinNavigationBar class="py-3"/>
+    <Logo />
+    <NavBar class="py-3"/>
     
   </div>
   
