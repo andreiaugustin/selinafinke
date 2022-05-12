@@ -1,35 +1,43 @@
 const portfolio = {
     CrystalAndLewis : {
         img: "/img/portfolio/CrystalAndLewis.jpg",
-        url: "/portfolio/CrystalAndLewis"
+        url: "/portfolio/CrystalAndLewis",
+        title: "Crystal and Lewis"
     },
     SamanthaAndJaideep : {
         img: "/img/portfolio/SamanthaAndJaideep.jpg",
-        url: "/portfolio/SamanthaAndJaideep"
+        url: "/portfolio/SamanthaAndJaideep",
+        title: "Samantha and Jaideep"
     },
     PeterAndSandy : {
         img: "/img/portfolio/PeterAndSandy.jpg",
-        url: "/portfolio/PeterAndSandy"
+        url: "/portfolio/PeterAndSandy",
+        title: "Peter and Sandy"
     },
     LaurenAndBen : {
         img: "/img/portfolio/LaurenAndBen.jpg",
-        url: "/portfolio/LaurenAndBen"
+        url: "/portfolio/LaurenAndBen",
+        title: "Lauren and Ben"
     },
     NeeshaAndNitin : {
         img: "/img/portfolio/NeeshaAndNitin.jpg",
-        url: "/portfolio/NeeshaAndNitin"
+        url: "/portfolio/NeeshaAndNitin",
+        title: "Neesha and Nitin"
     },
     ChrisAndMelissa : {
         img: "/img/portfolio/ChrisAndMelissa.jpg",
-        url: "/portfolio/ChrisAndMelissa"
+        url: "/portfolio/ChrisAndMelissa",
+        title: "Chris and Melissa"
     },
     RoshnaAndAlistair : {
         img: "/img/portfolio/RoshnaAndAlistair.jpg",
-        url: "/portfolio/RoshnaAndAlistair"
+        url: "/portfolio/RoshnaAndAlistair",
+        title: "Roshna and Alistair"
     },
     SarahAndJames : {
         img: "/img/portfolio/SarahAndJames.jpg",
-        url: "/portfolio/SarahAndJames"
+        url: "/portfolio/SarahAndJames",
+        title: "Sarah and James"
     },
 };
 

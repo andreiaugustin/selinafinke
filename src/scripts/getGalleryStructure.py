@@ -16,6 +16,7 @@ for folder in dirs:
   print('  {}: ['.format(folder))
   for file in os.listdir(root+folder):
     if 'jpg' in file:
+    # if 'AVIF' in file:
       files.append(file)
   files.sort()
   landscapeCounter = 1
