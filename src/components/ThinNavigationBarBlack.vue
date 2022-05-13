@@ -9,8 +9,8 @@
 
 <style>
   .nav-text {
-    font-family: 'OpenSans';
-    font-size: 24px;
+    font-family: Times, serif;
+    font-size: 25px;
     letter-spacing: 5px;
   }
 </style>

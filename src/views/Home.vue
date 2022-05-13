@@ -6,12 +6,12 @@
 
 <template>
 
-<div class="flex-grow bg-black">
+<div class="flex-grow bg-black scroll-smooth">
 
   <div class="z-40 absolute flex flex-col w-screen flex min-h-screen justify-center items-center">
 
     <Logo />
-    <NavBar class="py-3"/>
+    <NavBar class="py-5"/>
     
   </div>
   

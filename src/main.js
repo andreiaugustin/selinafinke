@@ -4,7 +4,6 @@ import router from './router'
 import VueLazyLoad from 'vue3-lazyload'
 
 import './styles/index.css'
-import './styles/fonts.css'
 
 import gallery from './gallery.js'
 import portfolio from './portfolio.js'

@@ -1,6 +1,6 @@
 <template>
   
-  <div class="p-4 bg-white">
+  <div class="p-4 bg-white scroll-smooth">
     <ScrollToTop />
     <NewNavigationBar />
     <div v-for="(group, index) in $gallery.PeterAndSandy" :key="index" class="bg-white">

@@ -7,13 +7,13 @@
 
 <style>
   .logo-text {
-    font-family: 'OpenSans';
+    font-family: Times, serif;
     font-size: 50px;
     letter-spacing: 5px;
   }
   .photographer-text {
-    font-family: 'OpenSans';
-    font-size: 20px;
+    font-family: Times, serif;
+    font-size: 25px;
     letter-spacing: 12px;
   }
 </style>

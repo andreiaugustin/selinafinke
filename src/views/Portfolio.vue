@@ -6,7 +6,7 @@ import NavBar from "../components/ThinContactBarBlack.vue"
 </script>
 
 <template>
-  <main class="p-4 flex-grow bg-white">
+  <main class="p-4 flex-grow bg-white scroll-smooth">
     <router-link to="/">
       <Logo />
     </router-link>

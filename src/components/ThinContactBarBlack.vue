@@ -6,8 +6,8 @@
 
 <style>
   .nav-text {
-    font-family: 'OpenSans';
-    font-size: 20px;
+    font-family: Times, serif;
+    font-size: 15px;
     letter-spacing: 5px;
   }
 </style>
