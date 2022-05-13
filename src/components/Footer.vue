@@ -3,9 +3,9 @@
     <div class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
       
       <div class="mt-8 border-t border-gray-200 pt-8 items-center">
-        <p class="mt-8 text-base text-black md:mt-0 md:order-1">
+        <p class="mt-8 text-base text-gray-800 md:mt-0 md:order-1">
           &copy; 2022 Selina Finke&#9;|&#9;<a href="mailto:selinafinke@gmail.com">selinafinke@gmail.com</a>&#9;|&#9;
-          <a v-for="social in socials" :key="social.name" :href="social.href" class="text-black">
+          <a v-for="social in socials" :key="social.name" :href="social.href" class="text-gray-800">
             <span class="sr-only">{{ social.name }}</span>
             <component :is="social.icon" class="h-6 w-6 inline" aria-hidden="true" />
           </a>

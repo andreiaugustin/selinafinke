@@ -16,7 +16,10 @@
   </div>
   
   
-  <img src="/img/portfolio/cake.jpg" class="z-0 opacity-[.8] object-cover h-screen w-screen" alt="background">
+  <div class="opacity-[.8]">
+    <img  alt="background" v-lazy="'img/portfolio/cake.jpg'" class="z-0 object-cover h-screen w-screen" >
+  </div>
+  
 </div>
 
 </template>

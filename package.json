@@ -14,7 +14,8 @@
     "@tailwindcss/forms": "^0.4.0",
     "daisyui": "^2.14.2",
     "vue": "^3.2.25",
-    "vue-router": "^4.0.11"
+    "vue-router": "^4.0.11",
+    "vue3-lazyload": "^0.3.0"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.3.1",

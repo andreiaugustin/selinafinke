@@ -1,7 +1,7 @@
 <template>
 <div class="bg-transparent">
-  <h1 class="logo-text text-black">Selina Finke</h1>
-  <h2 class="photographer-text text-black">Photographer</h2>
+  <h1 class="logo-text text-gray-800">Selina Finke</h1>
+  <h2 class="photographer-text text-gray-800">Photographer</h2>
 </div>
 </template>
 

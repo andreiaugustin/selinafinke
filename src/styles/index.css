@@ -1,3 +1,43 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+img[lazy=loading] {
+    opacity: 0 !important;
+}
+img[lazy=error] {
+}
+
+img[lazy=loaded] {
+    animation: fadeIn 700ms;
+    -webkit-animation: fadeIn 700ms;
+    -moz-animation: fadeIn 700ms;
+    -o-animation: fadeIn 700ms;
+    -ms-animation: fadeIn 700ms;
+}
+
+@keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+
+@-moz-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+
+@-webkit-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+
+@-o-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+
+@-ms-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
