@@ -1,6 +1,6 @@
 <template>
   <footer class="bg-white" aria-labelledby="footer-heading">
-    <div class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8">
+    <div class="max-w-7xl mx-auto py-12 sm:px-6 lg:py-16 lg:px-8">
       
       <div class="mt-8 border-t border-gray-200 pt-8 items-center">
         <p class="mt-8 text-base text-gray-800 md:mt-0 md:order-1">
@@ -10,6 +10,7 @@
             <component :is="social.icon" class="h-6 w-6 inline" aria-hidden="true" />
           </a>
         </p>
+        <p class="mt-4 text-center text-sm text-gray-800">Developed with &#128155 by Goldenbear Technology Ltd<br>All rights reserved</p>
       </div>
 
     </div>
