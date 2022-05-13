@@ -6,7 +6,7 @@
 
 <template>
 
-<div class="flex-grow bg-white dark:bg-zinc-900">
+<div class="flex-grow bg-black">
 
   <div class="z-40 absolute flex flex-col w-screen flex min-h-screen justify-center items-center">
 
