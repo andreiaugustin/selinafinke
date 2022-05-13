@@ -1,6 +1,6 @@
 <template>
-<div class="bg-transparentjustify-between min-w-[80%] lg:min-w-[25%] md:min-w-[40%] sm:min-w-[50%]">
-  <a href="mailto:selinafinke@gmail.com"><h2 class="nav-text text-black">Contact</h2></a>
+<div class="bg-transparentjustify-between min-w-[80%] lg:min-w-[25%] md:min-w-[40%] sm:min-w-[50%] flex flex-row justify-center">
+  <a href="mailto:selinafinke@gmail.com" class="border-2 p-2 border-black"><h2 class="nav-text text-black">Contact</h2></a>
 </div>
 </template>
 

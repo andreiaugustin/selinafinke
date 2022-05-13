@@ -13,7 +13,7 @@ import NavBar from "../components/ThinContactBarBlack.vue"
     <NavBar class="py-3" />
     <div class="grid grid-flow-row lg:grid-cols-4 gap-4 justify-items-center">
 
-      <div v-for="image in $portfolio" :key="image" class="max-w-xs mx-4 mb-2 rounded-lg shadow-lg my-8">
+      <div v-for="image in $portfolio" :key="image" class="max-w-xs mx-4 mb-2 rounded-lg shadow-lg my-4">
         <router-link :to="image.url">
           <img class="w-128 h-128 our_card rounded-t-lg" :src="image.img" :alt="image.title">
           <div class="px-6 py-4">
