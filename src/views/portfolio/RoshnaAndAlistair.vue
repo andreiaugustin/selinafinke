@@ -18,6 +18,8 @@
 <script setup>
 import ScrollToTop from "../../components/ScrollToTop.vue";
 import NewNavigationBar from "../../components/NewNavigationBar.vue";
-import Footer from "../../components/Footer.vue"
+import Footer from "../../components/Footer.vue";
+document.body.scrollTop = 0;
+document.documentElement.scrollTop = 0;
 </script>
 
