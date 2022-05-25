@@ -405,6 +405,78 @@ const gallery = {
     ],
   ],
 
+  SavannaAndAdam: [
+    [
+      { name: '01p.jpg', filepath: '/img/portfolio/SavannaAndAdam/01p.jpg' },
+      { name: '02p.jpg', filepath: '/img/portfolio/SavannaAndAdam/02p.jpg' },
+      { name: '03p.jpg', filepath: '/img/portfolio/SavannaAndAdam/03p.jpg' },
+    ],
+    [
+      { name: '04l.jpg', filepath: '/img/portfolio/SavannaAndAdam/04l.jpg' },
+      { name: '05l.jpg', filepath: '/img/portfolio/SavannaAndAdam/05l.jpg' },
+    ],
+    [
+      { name: '06l.jpg', filepath: '/img/portfolio/SavannaAndAdam/06l.jpg' },
+      { name: '07l.jpg', filepath: '/img/portfolio/SavannaAndAdam/07l.jpg' },
+    ],
+    [
+      { name: '08p.jpg', filepath: '/img/portfolio/SavannaAndAdam/08p.jpg' },
+      { name: '09p.jpg', filepath: '/img/portfolio/SavannaAndAdam/09p.jpg' },
+      { name: '10p.jpg', filepath: '/img/portfolio/SavannaAndAdam/10p.jpg' },
+    ],
+    [
+      { name: '11l.jpg', filepath: '/img/portfolio/SavannaAndAdam/11l.jpg' },
+      { name: '12l.jpg', filepath: '/img/portfolio/SavannaAndAdam/12l.jpg' },
+    ],
+    [
+      { name: '13p.jpg', filepath: '/img/portfolio/SavannaAndAdam/13p.jpg' },
+      { name: '14p.jpg', filepath: '/img/portfolio/SavannaAndAdam/14p.jpg' },
+      { name: '15p.jpg', filepath: '/img/portfolio/SavannaAndAdam/15p.jpg' },
+    ],
+    [
+      { name: '16l.jpg', filepath: '/img/portfolio/SavannaAndAdam/16l.jpg' },
+      { name: '17l.jpg', filepath: '/img/portfolio/SavannaAndAdam/17l.jpg' },
+    ],
+    [
+      { name: '18l.jpg', filepath: '/img/portfolio/SavannaAndAdam/18l.jpg' },
+      { name: '19l.jpg', filepath: '/img/portfolio/SavannaAndAdam/19l.jpg' },
+    ],
+    [
+      { name: '20l.jpg', filepath: '/img/portfolio/SavannaAndAdam/20l.jpg' },
+      { name: '21l.jpg', filepath: '/img/portfolio/SavannaAndAdam/21l.jpg' },
+    ],
+    [
+      { name: '22p.jpg', filepath: '/img/portfolio/SavannaAndAdam/22p.jpg' },
+      { name: '23p.jpg', filepath: '/img/portfolio/SavannaAndAdam/23p.jpg' },
+      { name: '24p.jpg', filepath: '/img/portfolio/SavannaAndAdam/24p.jpg' },
+    ],
+    [
+      { name: '25l.jpg', filepath: '/img/portfolio/SavannaAndAdam/25l.jpg' },
+      { name: '26l.jpg', filepath: '/img/portfolio/SavannaAndAdam/26l.jpg' },
+    ],
+    [
+      { name: '27l.jpg', filepath: '/img/portfolio/SavannaAndAdam/27l.jpg' },
+      { name: '28l.jpg', filepath: '/img/portfolio/SavannaAndAdam/28l.jpg' },
+    ],
+    [
+      { name: '29l.jpg', filepath: '/img/portfolio/SavannaAndAdam/29l.jpg' },
+      { name: '30l.jpg', filepath: '/img/portfolio/SavannaAndAdam/30l.jpg' },
+    ],
+    [
+      { name: '31l.jpg', filepath: '/img/portfolio/SavannaAndAdam/31l.jpg' },
+      { name: '32l.jpg', filepath: '/img/portfolio/SavannaAndAdam/32l.jpg' },
+    ],
+    [
+      { name: '33p.jpg', filepath: '/img/portfolio/SavannaAndAdam/33p.jpg' },
+      { name: '34p.jpg', filepath: '/img/portfolio/SavannaAndAdam/34p.jpg' },
+      { name: '35p.jpg', filepath: '/img/portfolio/SavannaAndAdam/35p.jpg' },
+    ],
+    [
+      { name: '36l.jpg', filepath: '/img/portfolio/SavannaAndAdam/36l.jpg' },
+      { name: '37l.jpg', filepath: '/img/portfolio/SavannaAndAdam/37l.jpg' },
+    ],
+  ],
+
   LaurenAndBen: [
     [
       { name: '01l.jpg', filepath: '/img/portfolio/LaurenAndBen/01l.jpg' },

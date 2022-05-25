@@ -64,7 +64,12 @@ const routes =
     component: () =>
     import('./views/portfolio/RoshnaAndAlistair.vue')
   },
- 
+  {
+    path: '/portfolio/SavannaAndAdam',
+    name: 'Savanna and Adam',
+    component: () =>
+    import('./views/portfolio/SavannaAndAdam.vue')
+  },
   
 
 

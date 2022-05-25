@@ -9,6 +9,11 @@ const portfolio = {
         url: "/portfolio/SamanthaAndJaideep",
         title: "Samantha and Jaideep"
     },
+    SavannaAndAdam : {
+        img: "/img/portfolio/SavannaAndAdam.jpg",
+        url: "/portfolio/SavannaAndAdam",
+        title: "Savanna and Adam"
+    },
     PeterAndSandy : {
         img: "/img/portfolio/PeterAndSandy.jpg",
         url: "/portfolio/PeterAndSandy",
@@ -34,11 +39,12 @@ const portfolio = {
         url: "/portfolio/RoshnaAndAlistair",
         title: "Roshna and Alistair"
     },
-    SarahAndJames : {
-        img: "/img/portfolio/SarahAndJames.jpg",
-        url: "/portfolio/SarahAndJames",
-        title: "Sarah and James"
-    },
+    // SarahAndJames : {
+    //     img: "/img/portfolio/SarahAndJames.jpg",
+    //     url: "/portfolio/SarahAndJames",
+    //     title: "Sarah and James"
+    // },
+    
 };
 
 export default portfolio
