@@ -70,6 +70,73 @@ const gallery = {
     ],
   ],
 
+  EmilyAndRobert: [
+    [
+      { name: '01l.jpg', filepath: '/img/portfolio/EmilyAndRobert/01l.jpg' },
+      { name: '02l.jpg', filepath: '/img/portfolio/EmilyAndRobert/02l.jpg' },
+    ],
+    [
+      { name: '03p.jpg', filepath: '/img/portfolio/EmilyAndRobert/03p.jpg' },
+      { name: '04p.jpg', filepath: '/img/portfolio/EmilyAndRobert/04p.jpg' },
+      { name: '05p.jpg', filepath: '/img/portfolio/EmilyAndRobert/05p.jpg' },
+    ],
+    [
+      { name: '06l.jpg', filepath: '/img/portfolio/EmilyAndRobert/06l.jpg' },
+      { name: '07l.jpg', filepath: '/img/portfolio/EmilyAndRobert/07l.jpg' },
+    ],
+    [
+      { name: '08p.jpg', filepath: '/img/portfolio/EmilyAndRobert/08p.jpg' },
+      { name: '09p.jpg', filepath: '/img/portfolio/EmilyAndRobert/09p.jpg' },
+      { name: '10p.jpg', filepath: '/img/portfolio/EmilyAndRobert/10p.jpg' },
+    ],
+    [
+      { name: '11l.jpg', filepath: '/img/portfolio/EmilyAndRobert/11l.jpg' },
+      { name: '12l.jpg', filepath: '/img/portfolio/EmilyAndRobert/12l.jpg' },
+    ],
+    [
+      { name: '13p.jpg', filepath: '/img/portfolio/EmilyAndRobert/13p.jpg' },
+      { name: '14p.jpg', filepath: '/img/portfolio/EmilyAndRobert/14p.jpg' },
+      { name: '15p.jpg', filepath: '/img/portfolio/EmilyAndRobert/15p.jpg' },
+    ],
+    [
+      { name: '16l.jpg', filepath: '/img/portfolio/EmilyAndRobert/16l.jpg' },
+      { name: '17l.jpg', filepath: '/img/portfolio/EmilyAndRobert/17l.jpg' },
+    ],
+    [
+      { name: '18l.jpg', filepath: '/img/portfolio/EmilyAndRobert/18l.jpg' },
+      { name: '19l.jpg', filepath: '/img/portfolio/EmilyAndRobert/19l.jpg' },
+    ],
+    [
+      { name: '20l.jpg', filepath: '/img/portfolio/EmilyAndRobert/20l.jpg' },
+      { name: '21l.jpg', filepath: '/img/portfolio/EmilyAndRobert/21l.jpg' },
+    ],
+    [
+      { name: '22l.jpg', filepath: '/img/portfolio/EmilyAndRobert/22l.jpg' },
+      { name: '23l.jpg', filepath: '/img/portfolio/EmilyAndRobert/23l.jpg' },
+    ],
+    [
+      { name: '24l.jpg', filepath: '/img/portfolio/EmilyAndRobert/24l.jpg' },
+      { name: '25l.jpg', filepath: '/img/portfolio/EmilyAndRobert/25l.jpg' },
+    ],
+    [
+      { name: '26l.jpg', filepath: '/img/portfolio/EmilyAndRobert/26l.jpg' },
+      { name: '27l.jpg', filepath: '/img/portfolio/EmilyAndRobert/27l.jpg' },
+    ],
+    [
+      { name: '28p.jpg', filepath: '/img/portfolio/EmilyAndRobert/28p.jpg' },
+      { name: '29p.jpg', filepath: '/img/portfolio/EmilyAndRobert/29p.jpg' },
+      { name: '30p.jpg', filepath: '/img/portfolio/EmilyAndRobert/30p.jpg' },
+    ],
+    [
+      { name: '31l.jpg', filepath: '/img/portfolio/EmilyAndRobert/31l.jpg' },
+      { name: '32l.jpg', filepath: '/img/portfolio/EmilyAndRobert/32l.jpg' },
+    ],
+    [
+      { name: '33l.jpg', filepath: '/img/portfolio/EmilyAndRobert/33l.jpg' },
+      { name: '34l.jpg', filepath: '/img/portfolio/EmilyAndRobert/34l.jpg' },
+    ],
+  ],
+
   RoshnaAndAlistair: [
     [
       { name: '01p.jpg', filepath: '/img/portfolio/RoshnaAndAlistair/01p.jpg' },
