@@ -94,11 +94,6 @@ const gallery = {
       { name: '12l.jpg', filepath: '/img/portfolio/EmilyAndRobert/12l.jpg' },
     ],
     [
-      { name: '13p.jpg', filepath: '/img/portfolio/EmilyAndRobert/13p.jpg' },
-      { name: '14p.jpg', filepath: '/img/portfolio/EmilyAndRobert/14p.jpg' },
-      { name: '15p.jpg', filepath: '/img/portfolio/EmilyAndRobert/15p.jpg' },
-    ],
-    [
       { name: '16l.jpg', filepath: '/img/portfolio/EmilyAndRobert/16l.jpg' },
       { name: '17l.jpg', filepath: '/img/portfolio/EmilyAndRobert/17l.jpg' },
     ],
