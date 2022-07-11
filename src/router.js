@@ -76,6 +76,12 @@ const routes =
     component: () =>
     import('./views/portfolio/EmilyAndRobert.vue')
   },
+  {
+    path: '/portfolio/JoeAndBecky',
+    name: 'Joe and Becky',
+    component: () =>
+    import('./views/portfolio/JoeAndBecky.vue')
+  },
   
 
 

@@ -4,6 +4,11 @@ const portfolio = {
         url: "/portfolio/CrystalAndLewis",
         title: "Crystal and Lewis"
     },
+    JoeAndBecky : {
+        img: "/img/portfolio/JoeAndBecky.jpg",
+        url: "/portfolio/JoeAndBecky",
+        title: "Joe and Becky"
+    },
     SamanthaAndJaideep : {
         img: "/img/portfolio/SamanthaAndJaideep.jpg",
         url: "/portfolio/SamanthaAndJaideep",
